@@ -1,4 +1,4 @@
-package com.javacourse.vorotov;
+package com.javacourse.vorotov.vorotov;
 
 /**
  * Hello world!
